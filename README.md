@@ -1,6 +1,6 @@
 # Title
 
-This app to display six BottomSheets Designs. Was applied by Flutter.
+This app is just to display six BottomSheets Designs. Was applied by Flutter.
 
 ## Overview
 
@@ -8,7 +8,7 @@ The App Has:
 - Six BottomSheets cool designs and very usefull for your apps. 
 
 
-**Note: All you need its to copy the design  **
+**Note: All you need to do is to copy the sheet design that you like and its function. If it has picture, it must also be copied it from Images folder.**
 
 ### Support Me
 ![](https://user-images.githubusercontent.com/38374139/82101919-8c787280-9716-11ea-88fb-2dfe98eafb3c.png)
